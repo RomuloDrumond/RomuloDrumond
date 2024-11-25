@@ -32,7 +32,7 @@ I'm a passionate **Machine Learning Engineer** and **ML Research Engineer** with
 
 ## Featured Projects 💻
 
-### [Research Crew](https://github.com/jojosan/research-crew/tree/langraph-implementation)
+### [Research Crew](https://github.com/factoredai/research-crew/tree/langraph-implementation)
 
 Research Crew is an agentic workflow that takes a research topic and general research plan to execute research and produce different types of content. This project uses the LangGraph framework to create a modular and extensible workflow for generating structured reports from web-based and user-provided content.
 
