@@ -1,61 +1,63 @@
 # Hi there, I'm Romulo Drumond! 👋
 
-<!-- ![Banner Image](your_banner_image_url_here) -->
-
 ## About Me 🚀
 
-I'm a **Research/ML Engineer** with expertise in **AI Agents, Large Language Models (LLMs), Reinforcement Learning, and High-Performance Machine Learning**. My focus is on **scalable AI systems**, **multi-agent collaboration**, and **optimizing ML models for efficiency and performance**. I thrive on building real-world AI solutions and pushing the boundaries of AI research.
+I'm an **AI & Machine Learning Engineer** specializing in designing, building, and deploying production-grade AI systems. My expertise spans from advanced **AI Agents** and **Large Language Models (LLMs)** to scalable **backend development** and **LLMOps**. I am passionate about creating reliable, efficient, and maintainable AI solutions that solve real-world problems.
 
-- 🌱 **Currently learning**: HPC for ML, Multi-Agent Systems, Advanced RLHF
-- 🔭 **Working on**: Research-focused AI projects, multi-agent workflows, and scalable model optimizations
-- 📌 **Primary Interests**: AI Agents, Transformers, RLHF, Distributed Training, and ML System Optimization
+- 🔭 **Currently working on**: Building robust backend services for AI applications, implementing LLMOps best practices, and developing advanced multi-agent workflows.
+- 🌱 **Currently learning**: Advanced distributed training techniques and scalable AI system architecture.
+- 📌 **Primary Interests**: AI System Design, LLMOps, FastAPI, RAG Pipelines, and Multi-Agent Systems.
 - 🌍 **Languages**: Python, English, French, Portuguese
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/romulo-drumond/) | [Website](https://romulodrumond.com/)
-- ⚡ **Fun fact**: I'm a Brazilian who doesn't play soccer! (I know, wtf, right?)
+- ⚡ **Fun fact**: I'm a Brazilian who doesn't play soccer!
 
 ---
 
 ## My Skills 🧠
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-4EA94B?style=flat-square&logo=natural-language-processing&logoColor=white)
-![LLMs](https://img.shields.io/badge/-LLMs-0081CB?style=flat-square&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLMs-0081CB?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-0081CB?style=flat-square&logo=deepmind&logoColor=white)
-![RLHF](https://img.shields.io/badge/-RLHF-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![LLMOps](https://img.shields.io/badge/-LLMOps-0081CB?style=flat-square&logo=openai&logoColor=white)
-![MLOps](https://img.shields.io/badge/-MLOps-FF6F00?style=flat-square&logo=kubernetes&logoColor=white)
-![HPC](https://img.shields.io/badge/-HPC-5C3EE8?style=flat-square&logo=nvidia&logoColor=white)
-![Distributed Training](https://img.shields.io/badge/-Distributed%20Training-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### Backend & MLOps
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![LLMOps](https://img.shields.io/badge/-LLMOps-0081CB?style=for-the-badge&logo=openai&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ---
 
 ## Featured Projects 💻
 
+### ReportGen Agent
+An agentic workflow that automates in-depth research to produce structured reports from web and user-provided content. This system leverages **LangGraph** to create a modular, extensible, and maintainable workflow based on SOLID principles.
+- **Impact**: Designed to save hundreds of engineering hours by automating technology assessment and content generation.
 
-### [Research Crew](https://github.com/factoredai/research-crew/tree/langraph-implementation)
+### [LSSVM (Least Squares Support Vector Machine)](https://github.com/RomuloDrumond/LSSVM)
+A high-performance Python implementation of the LSSVM algorithm for classification, optimized for both CPU (NumPy) and GPU (PyTorch).
 
-Research Crew is an agentic workflow that takes a research topic and general research plan to execute research and produce different types of content. This project uses the LangGraph framework to create a modular and extensible workflow for generating structured reports from web-based and user-provided content.
-
-The project follows SOLID principles and has a clear modular structure, making it easy to extend and maintain. It's designed to be run in a development container for a consistent environment across contributors.
-
-
-### [LSSVM](https://github.com/RomuloDrumond/LSSVM)
-
-Python implementation of Least Squares Support Vector Machine for classification on CPU (NumPy) and GPU (PyTorch).
-
-### [SOM](https://github.com/RomuloDrumond/SOM)
-
-Python implementation of Self-Organizing Maps (SOM) on CPU (NumPy) and GPU (PyTorch).
-
+### [SOM (Self-Organizing Maps)](https://github.com/RomuloDrumond/SOM)
+A Python implementation of Self-Organizing Maps (SOM) with dual support for CPU (NumPy) and GPU (PyTorch) execution.
 
 ---
 
 ## Recent Certifications 🎓
 
-Check my **[LinkedIn](https://www.linkedin.com/in/romulo-drumond/)** for the most up-to-date information!
+- **Generative AI for Software Development Specialization** (DeepLearning.AI)
+- **LLMOps** (DeepLearning.AI)
+- **Automated Testing for LLMOps** (DeepLearning.AI)
+- **Large Language Models with Semantic Search** (DeepLearning.AI)
+- **DSPy: Build and Optimize Agentic Apps** (DeepLearning.AI)
+- **AI Agents in LangGraph** (DeepLearning.AI)
 
 ---
 
@@ -66,10 +68,3 @@ Check my **[LinkedIn](https://www.linkedin.com/in/romulo-drumond/)** for the mos
 - **GitHub**: [github.com/RomuloDrumond](https://github.com/RomuloDrumond)
 
 *"Don't forget to think about people, in the end, it's all about them."*
-
-
-
-
-
-
-
