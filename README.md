@@ -19,11 +19,11 @@ I'm an **AI & Machine Learning Engineer** specializing in designing, building, a
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-4EA94B?style=flat-square&logo=natural-language-processing&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-4EA94B?style=for-the-badge&logo=natural-language-processing&logoColor=white)
 ![LLMs](https://img.shields.io/badge/-LLMs-0081CB?style=for-the-badge&logo=openai&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-0081CB?style=flat-square&logo=deepmind&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-0081CB?style=for-the-badge&logo=deepmind&logoColor=white)
 
 ### Backend & MLOps
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
